@@ -1,5 +1,5 @@
-## Examenleerstof
-
+# Examenleerstof
+_Stuur me privé op Discord of maak een pull request als je dingen anders zie of als je vraagtekens kan helpen verhelderen - alvast bedankt!_
 
 
 ## H1
