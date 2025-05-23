@@ -1154,21 +1154,22 @@ Niets met eigenwaarde te kennen
 
 # Exameninfo
 
-Oefeningenexamen in groep, mondeling individueel
-
-Wijzigingen aan de rooster vraag je aan het studentenseceretariaat niet aan prof. Peeters
-
-Wees er 10 minuten op voorhand.
-
-
-
-Mondeling: 3 vragen - 1 over differentieerbaarheid - 1 integreerbaarheid - 1 uit de laatste 2 H
-
-Oefeningen: 2 vragen uit elk hoofdstuk ~ 1 makkelijker en 1 moeilijker 
+- Oefeningenexamen in groep, mondeling individueel
+- Wijzigingen aan de rooster vraag je aan het studentenseceretariaat niet aan prof. Peeters
+- Wees er 10 minuten op voorhand.
+- Mondeling:
+    - 3 vragen
+        - 1 over differentieerbaarheid
+        - 1 integreerbaarheid
+        - 1 uit de laatste 2 Hoofdstukken
+- Oefeningen:
+  - 2 vragen uit elk hoofdstuk ~ 1 makkelijker en 1 moeilijker 
 
 60% Oefeningen - 40% Theorie
 
 Geen verplichte kledij bij mondelinge examens
 
-Te gebruiken: GEEL BLAD - Niet-grafisch, niet programmeerbaar rekenmachine
+Te gebruiken: 
+  - GEEL forumulariumblad, aan te kopen bij cursusdienst
+  - Niet-grafisch, onprogrammeerbaar rekenmachine (ln-, cos-, sin- enz. functionaliteit mag wel)
 
