@@ -36,9 +36,9 @@ _Stuur me privé op Discord of maak een pull request als je dingen anders zie of
 
 1.5.14
 
-1.5.16 NIET
+1.5.16 - Expliciet Niet
 
-1.5.17 NIET
+1.5.17 - Expliciet Niet
 
 1.5.18
 
@@ -220,7 +220,7 @@ _Stuur me privé op Discord of maak een pull request als je dingen anders zie of
 
 
 
-2.8 - "Voorlopig geskipt" - zijn we hier nog op teruggekomen?
+2.8 - Mag je gebruiken in oefeningen, geen theorie te kennen
 
 
 
