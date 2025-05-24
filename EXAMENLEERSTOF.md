@@ -894,13 +894,13 @@ Schrijf nooit onbepaalde en bepaalde integralen gelijk aan elkaar - je oefning i
 
 6.6.18?
 
-6.6.20?
+6.6.20
 
-6.6.21?
+6.6.21
 
-6.6.22?
+6.6.22
 
-6.6.24?
+6.6.24
 
 PROJECT HOOFDREKENEN?
 
