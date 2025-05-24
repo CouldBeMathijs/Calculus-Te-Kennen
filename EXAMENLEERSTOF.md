@@ -358,7 +358,7 @@ _Stuur me privé op Discord of maak een pull request als je dingen anders zie of
 
 3.5.3 - Waarschijnlijke examenvraag
 
-3.5.4
+3.5.4 - Waarschijnlijke Examenvraag
 
 3.5.6
 
@@ -834,7 +834,7 @@ Schrijf nooit onbepaalde en bepaalde integralen gelijk aan elkaar - je oefning i
 
 6.4.45?
 
-6.4.47?
+6.4.47 - Waarschijnlijk niet
 
 
 
