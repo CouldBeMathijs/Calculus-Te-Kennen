@@ -398,7 +398,7 @@ _Stuur me privé op Discord of maak een pull request als je dingen anders zie of
 
 3.7.4
 
-3.7.5
+3.7.5 - Waarschijnlijke examenvraag
 
 3.7.6
 
