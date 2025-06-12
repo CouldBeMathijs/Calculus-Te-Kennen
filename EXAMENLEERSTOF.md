@@ -596,7 +596,7 @@ Zie ook slides BB
 
 5.4.5 - Grenzen Wijzigen
 
-Schrijf nooit onbepaalde en bepaalde integralen gelijk aan elkaar - je oefning is fout vanaf daar
+Schrijf nooit onbepaalde en bepaalde integralen gelijk aan elkaar - je oefening is fout vanaf daar
 
 5.4.7?
 
