@@ -3,11 +3,14 @@
 - Oefeningenexamen in groep, mondeling individueel
 - Wijzigingen aan de rooster vraag je aan het studentenseceretariaat niet aan prof. Peeters
 - Wees er 10 minuten op voorhand.
-- Mondeling: _Dit is wat hij zei tijdens de laatste les, als dit klopt moeten we een een serieus deel van de bewijzen en definities niet kennen, maar ik weet niet hoe juist dit is. Al zijn deze woorden dus wel letterlijk gevallen tijdens de les op vrijdag 23/05 - Als je meer weet, mag je het me altijd laten weten_
+- Mondeling: 
     - 3 vragen
         - 1 over differentieerbaarheid
         - 1 integreerbaarheid
         - 1 uit de laatste 2 Hoofdstukken
+      
+_Dit (^) is wat hij zei tijdens de laatste les, als dit klopt moeten we een een serieus deel van de bewijzen en definities niet kennen, maar ik weet niet hoe juist dit is. Al zijn deze woorden dus wel letterlijk gevallen tijdens de les op vrijdag 23/05 - Als je meer weet, mag je het me altijd laten weten_
+
 - Oefeningen:
   - 2 vragen uit elk hoofdstuk ~ 1 makkelijker en 1 moeilijker 
 
