@@ -1,3 +1,25 @@
+# Exameninfo
+
+- Oefeningenexamen in groep, mondeling individueel
+- Wijzigingen aan de rooster vraag je aan het studentenseceretariaat niet aan prof. Peeters
+- Wees er 10 minuten op voorhand.
+- Mondeling: _Dit is wat hij zei tijdens de laatste les, als dit klopt moeten we een een serieus deel van de bewijzen en definities niet kennen, maar ik weet niet hoe juist dit is. Al zijn deze woorden dus wel letterlijk gevallen tijdens de les op vrijdag 23/05 - Als je meer weet, mag je het me altijd laten weten_
+    - 3 vragen
+        - 1 over differentieerbaarheid
+        - 1 integreerbaarheid
+        - 1 uit de laatste 2 Hoofdstukken
+- Oefeningen:
+  - 2 vragen uit elk hoofdstuk ~ 1 makkelijker en 1 moeilijker 
+
+60% Oefeningen - 40% Theorie
+
+Geen verplichte kledij bij mondelinge examens
+
+Te gebruiken: 
+  - GEEL forumulariumblad, aan te kopen bij cursusdienst
+  - Niet-grafisch, onprogrammeerbaar rekenmachine (ln-, cos-, sin- enz. functionaliteit mag wel)
+
+
 # Examenleerstof
 _Stuur me privé op Discord of maak een pull request als je dingen anders zie of als je vraagtekens kan helpen verhelderen - alvast bedankt!_
 
@@ -1150,26 +1172,4 @@ Niets met eigenwaarde te kennen
 
 7.9.10?
 
-
-
-# Exameninfo
-
-- Oefeningenexamen in groep, mondeling individueel
-- Wijzigingen aan de rooster vraag je aan het studentenseceretariaat niet aan prof. Peeters
-- Wees er 10 minuten op voorhand.
-- Mondeling:
-    - 3 vragen
-        - 1 over differentieerbaarheid
-        - 1 integreerbaarheid
-        - 1 uit de laatste 2 Hoofdstukken
-- Oefeningen:
-  - 2 vragen uit elk hoofdstuk ~ 1 makkelijker en 1 moeilijker 
-
-60% Oefeningen - 40% Theorie
-
-Geen verplichte kledij bij mondelinge examens
-
-Te gebruiken: 
-  - GEEL forumulariumblad, aan te kopen bij cursusdienst
-  - Niet-grafisch, onprogrammeerbaar rekenmachine (ln-, cos-, sin- enz. functionaliteit mag wel)
 
