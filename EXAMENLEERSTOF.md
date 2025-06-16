@@ -413,7 +413,7 @@ _Stuur me privé op Discord of maak een pull request als je dingen anders zie of
 
 3.6.10 - Algemeen te snappen, niet specifiek te kennen
 
-3.7 **<MAANDAGNAMIDDAG>**
+3.7 **=MAANDAGNAMIDDAG=**
 
 3.7.1 - Waarschijnlijke examenvraag
 
@@ -517,7 +517,7 @@ Kies u de LIAGE - Logaritmische - Invers-Goneometrische - Algebraïsche (veelter
 
 4.7.4
 
-4.7.5 **<MAANDAGNAMIDDAG>**
+4.7.5 **=MAANDAGNAMIDDAG=**
 
 Zie ook slides BB
 
@@ -800,7 +800,7 @@ Schrijf nooit onbepaalde en bepaalde integralen gelijk aan elkaar - je oefening 
 6.3.23?
 
 
-6.4 **<MAANDAGNAMIDDAG>**
+6.4 **=MAANDAGNAMIDDAG=**
 
 6.4.1
 
