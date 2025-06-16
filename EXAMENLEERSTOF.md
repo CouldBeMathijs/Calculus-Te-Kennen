@@ -22,6 +22,12 @@ Te gebruiken:
   - GEEL forumulariumblad, aan te kopen bij cursusdienst
   - Niet-grafisch, onprogrammeerbaar rekenmachine (ln-, cos-, sin- enz. functionaliteit mag wel)
 
+# Al gevraagd deze reeks
+- Maandagnamiddag 16/06/2025
+      - 3.7
+      - 4.7.5
+      - 6.4
+
 
 # Examenleerstof
 _Stuur me privé op Discord of maak een pull request als je dingen anders zie of als je vraagtekens kan helpen verhelderen - alvast bedankt!_
@@ -517,7 +523,7 @@ Kies u de LIAGE - Logaritmische - Invers-Goneometrische - Algebraïsche (veelter
 
 4.7.4
 
-4.7.5 **=MAANDAGNAMIDDAG=**
+4.7.5 **=DAGNAMIDDAG=**
 
 Zie ook slides BB
 
